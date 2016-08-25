@@ -9,5 +9,5 @@ Requires:
   - matplotlib
 
 Instructions to reproduce:
-1. From https://www.kaggle.com/c/titanic/data download "train.csv" and "test.csv"
-2. run "script.py"
+- From https://www.kaggle.com/c/titanic/data download "train.csv" and "test.csv"
+- run "script.py"
