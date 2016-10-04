@@ -3,7 +3,7 @@ Entry for Kaggle Competition: "Titanic: Machine Learning from Disaster"
 
 Requires:
   - pandas
-  - nump
+  - numpy
   - re
   - sklearn
   - matplotlib
