@@ -5,7 +5,7 @@ Requires:
   - pandas
   - numpy
   - re
-  - sklearn
+  - scikit-learn
   - matplotlib
 
 Instructions to reproduce:
